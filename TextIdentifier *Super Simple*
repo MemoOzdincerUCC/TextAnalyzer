@@ -1,0 +1,2 @@
+if 'ingredients' in 'Lorem ipsum..... ingredients':
+    print('Ingredients exist in this website')
