@@ -1,0 +1,5 @@
+def contains_word(s, w):
+    return (' ' + w + ' ') in (' ' + s + ' ')
+
+contains_word('the quick brown fox', 'brown')  # True
+contains_word('the quick brown fox', 'row')    # False
