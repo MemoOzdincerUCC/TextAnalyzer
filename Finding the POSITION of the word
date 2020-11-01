@@ -1,0 +1,2 @@
+#To find the position of the words identified in the string, we must use -sentence.find(word)- or start_index = sentence.find(word)
+#end_index = start_index + len(word). These will find the exact position of the word and it's position in the order of words.
